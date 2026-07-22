@@ -75,7 +75,7 @@ main,master : 현재 작업중인 브랜치 이름
 6. git config --global user.email
 7. git remote add origin 원격저장소 URL
 8. git remote -v 
-9. git push origin master 
+9. git push origin main
 
 푸쉬 간 -u를 쓴 후에는 push만 써도 된다
 ```
